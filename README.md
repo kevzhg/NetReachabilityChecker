@@ -1,4 +1,4 @@
-# OSXWebsiteHealthChecker
+# NetReachabilityChecker
 
 This is a very simple application designed to show you the status of a list of 
 websites. This might be useful if your daily workflow depends on certain
